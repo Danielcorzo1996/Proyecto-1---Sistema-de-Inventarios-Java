@@ -1,6 +1,8 @@
 # Proyecto-1---Sistema-de-Inventarios-Java
 Sistema de Inventarios aplicando MVC, en Boostrap, JSP, Servlets, DAO
 
+Mira el video Aqui Abajo.....
+
 [![Alt text](https://img.youtube.com/vi/j5i1k7jENQE/0.jpg)](https://www.youtube.com/watch?v=j5i1k7jENQE)
 
 ![](https://github.com/Danielcorzo1996/Proyecto-1---Sistema-de-Inventarios-Java/blob/main/Imagenes%20SIPGAA/1.PNG)
